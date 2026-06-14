@@ -311,7 +311,6 @@ export function ProductDetailPage({ product, onBack, onBuy, onProductClick }: Pr
             <Heart size={18} fill={wishlisted ? "#C4622D" : "none"} color={wishlisted ? "#C4622D" : "#7A5C4A"} />
           </button>
           <PiPayButton
-          <PiPayButton
             fullWidth={true}
             label={`Buy Now · π ${product.price.toLocaleString()}`}
             amount={product.price}
@@ -319,7 +318,6 @@ export function ProductDetailPage({ product, onBack, onBuy, onProductClick }: Pr
             productName={product.name}
             onSuccess={() => onBuy(product)}
             className="flex-1"
-          />
           />
         </div>
       </div>
