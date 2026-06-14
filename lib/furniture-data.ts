@@ -115,7 +115,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "A beautifully crafted L-shaped sectional sofa with premium walnut frame and hand-stitched linen upholstery. Deep seat cushions offer exceptional comfort for everyday living.",
     descriptionAr:
       "أريكة قسمية على شكل L مصنوعة بعناية مع إطار من خشب الجوز الممتاز وتنجيد من الكتان المخيط يدوياً. مثالية للديكورات الحديثة.",
-    price: 1850, originalPrice: 2200,
+    price: 1,
     category: "living-room", style: "mid-century",
     material: "Walnut Wood, Linen",
     dimensions: { width: 280, height: 85, depth: 165, unit: "cm" },
@@ -137,7 +137,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "Stunning 8-seater dining table with Carrara marble top and brushed brass legs. Each marble slab is unique with natural veining patterns.",
     descriptionAr:
       "طاولة طعام مذهلة تتسع لـ 8 أشخاص مع سطح من رخام كارارا وأرجل من النحاس المصقول.",
-    price: 3200,
+    price: 1,
     category: "dining", style: "modern",
     material: "Carrara Marble, Brushed Brass",
     dimensions: { width: 240, height: 75, depth: 110, unit: "cm" },
@@ -158,7 +158,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "Handwoven natural rattan pendant lamp creating warm, dappled ambient lighting. Each piece uniquely handcrafted by local artisans.",
     descriptionAr:
       "مصباح معلق من الروطان الطبيعي المنسوج يدوياً. يضفي إضاءة محيطة دافئة ومميزة.",
-    price: 320,
+    price: 1,
     category: "lighting", style: "bohemian",
     material: "Natural Rattan",
     dimensions: { width: 45, height: 60, depth: 45, unit: "cm" },
@@ -176,7 +176,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "Low-profile platform bed with solid oak frame and slatted headboard. Clean Scandinavian lines for the modern bedroom. Fits standard king mattress.",
     descriptionAr:
       "سرير منصة منخفض المستوى بإطار صلب من خشب البلوط وسبورة رأس ذات شرائح. خطوط إسكندنافية نظيفة.",
-    price: 1450,
+    price: 1,
     category: "bedroom", style: "scandinavian",
     material: "Solid Oak",
     dimensions: { width: 180, height: 35, depth: 210, unit: "cm" },
@@ -197,7 +197,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "5-tier industrial bookshelf with steel frame and reclaimed wood shelves. Each shelf holds up to 25 kg. Perfect for home office or living room.",
     descriptionAr:
       "رف كتب صناعي بخمسة طوابق مع إطار فولاذي ورفوف من الخشب المستعاد.",
-    price: 680, originalPrice: 820,
+    price: 1,
     category: "office", style: "industrial",
     material: "Steel, Reclaimed Wood",
     dimensions: { width: 120, height: 180, depth: 35, unit: "cm" },
@@ -215,7 +215,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "Hand-thrown ceramic base with linen shade. Warm terracotta tones add earthy character to any space. E27 bulb compatible.",
     descriptionAr:
       "قاعدة سيراميك مصنوعة يدوياً مع غطاء من الكتان. درجات التراكوتا الدافئة تضيف طابعاً أصيلاً.",
-    price: 195,
+    price: 1,
     category: "lighting", style: "bohemian",
     material: "Ceramic, Linen",
     dimensions: { width: 30, height: 55, depth: 30, unit: "cm" },
@@ -233,7 +233,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "Sumptuous emerald velvet accent chair with gold-finished legs. A bold statement piece that elevates any living space. Hand-tufted back cushion.",
     descriptionAr:
       "كرسي مخمل زمردي فاخر مع أرجل مطلية بالذهب. قطعة جريئة ومميزة.",
-    price: 890,
+    price: 1,
     category: "living-room", style: "modern",
     material: "Velvet, Gold-Finished Steel",
     dimensions: { width: 75, height: 90, depth: 80, unit: "cm" },
@@ -254,7 +254,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "6-piece outdoor dining set in premium Grade-A teak wood. Weather-resistant and naturally beautiful. Includes table, 4 chairs, and cushions.",
     descriptionAr:
       "طقم طعام خارجي مكون من 6 قطع من خشب الساج الدرجة الأولى. مقاوم للطقس.",
-    price: 2600, originalPrice: 3100,
+    price: 1,
     category: "outdoor", style: "coastal",
     material: "Grade-A Teak, Sunbrella Fabric",
     dimensions: { width: 200, height: 75, depth: 100, unit: "cm" },
@@ -272,7 +272,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "Large handcrafted macramé wall art in natural cotton rope. 120 cm wide, a boho statement piece for living rooms and bedrooms.",
     descriptionAr:
       "عمل جداري ضخم من الماكراميه مصنوع يدوياً من حبل القطن الطبيعي بعرض 120 سم.",
-    price: 145,
+    price: 1,
     category: "decor", style: "bohemian",
     material: "Natural Cotton Rope",
     dimensions: { width: 120, height: 90, depth: 5, unit: "cm" },
@@ -290,7 +290,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "Full-grain leather and walnut executive desk with cable management and pull-out keyboard tray. The ultimate home office statement piece.",
     descriptionAr:
       "مكتب تنفيذي من الجلد الكامل وخشب الجوز مع إدارة الكابلات ودرج لوحة المفاتيح.",
-    price: 2250,
+    price: 1,
     category: "office", style: "mid-century",
     material: "Full-Grain Leather, Walnut",
     dimensions: { width: 160, height: 78, depth: 80, unit: "cm" },
@@ -311,7 +311,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "Ultra-deep, modular linen sofa with detachable cushions. Sink-in comfort with a clean, architectural silhouette. Available in sand, sage and clay.",
     descriptionAr:
       "أريكة كتانية معيارية عميقة جداً مع وسائد قابلة للفصل. راحة استثنائية بتصميم نظيف.",
-    price: 2100, originalPrice: 2600,
+    price: 1,
     category: "living-room", style: "scandinavian",
     material: "Belgian Linen, Solid Beech",
     dimensions: { width: 310, height: 72, depth: 100, unit: "cm" },
@@ -332,7 +332,7 @@ export const PRODUCTS: FurnitureProduct[] = [
       "Statement arched floor lamp in matte black steel with a spun brass diffuser shade. Fully dimmable. Perfect for reading nooks and living rooms.",
     descriptionAr:
       "مصباح أرضي قوسي من الفولاذ الأسود مع غطاء من النحاس. قابل للتعتيم. مثالي لزوايا القراءة.",
-    price: 540,
+    price: 1,
     category: "lighting", style: "modern",
     material: "Matte Black Steel, Spun Brass",
     dimensions: { width: 40, height: 185, depth: 40, unit: "cm" },
